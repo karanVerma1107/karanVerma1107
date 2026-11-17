@@ -6,26 +6,26 @@ I enjoy building intelligent systems that connect **machine learning, software e
 
 Currently working on AI-powered financial systems, autonomous agents, and market-data pipelines. Outside of work, I'm exploring deep learning, system design, scalable infrastructure, and the intersection of machine learning and quantitative finance.
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/karanVerma1107](https://github.com/karanVerma1107)">
-&#x20;   \<img src="[https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/karangogi](https://github.com/karangogi)">
-&#x20;   \<img src="[https://img.shields.io/badge/Work_GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Work_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/karan-verma-91565925a](https://www.linkedin.com/in/karan-verma-91565925a)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:karanverma100po\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="left">
+  <a href="https://github.com/karanVerma1107">
+    <img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/karangogi">
+    <img src="https://img.shields.io/badge/Work_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/karan-verma-91565925a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karanverma100po@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 💼 Where I Work
 
-### \<img src="[https://www.gogi.ai/favicon.ico](https://www.gogi.ai/favicon.ico)" width="18" /> GOGI.ai — Machine Learning Intern
+### <img src="https://www.gogi.ai/favicon.ico" width="18" /> GOGI.ai — Machine Learning Intern
 
 **June 2026 – Present**
 
@@ -61,54 +61,54 @@ Working on AI-powered financial systems and autonomous agents.
 
 ## 🧠 What I'm Interested In
 
-\<table>
-&#x20; \<tr>
-&#x20;   \<td width="50%">
-&#x20;     \<h3>🤖 Machine Learning & AI\</h3>
-&#x20;     \<ul>
-&#x20;       \<li>Deep Learning and Neural Networks\</li>
-&#x20;       \<li>Transformers and NLP\</li>
-&#x20;       \<li>Time-Series Forecasting\</li>
-&#x20;       \<li>RAG and Vector Databases\</li>
-&#x20;       \<li>Agentic AI and MCP\</li>
-&#x20;       \<li>Model Evaluation and Fine-tuning\</li>
-&#x20;     \</ul>
-&#x20;   \</td>
-&#x20;   \<td width="50%">
-&#x20;     \<h3>⚙️ Engineering & Systems\</h3>
-&#x20;     \<ul>
-&#x20;       \<li>System Design\</li>
-&#x20;       \<li>Backend Architecture\</li>
-&#x20;       \<li>Distributed Systems\</li>
-&#x20;       \<li>Docker and MLOps\</li>
-&#x20;       \<li>Data Engineering\</li>
-&#x20;       \<li>APIs and Scalable Infrastructure\</li>
-&#x20;     \</ul>
-&#x20;   \</td>
-&#x20; \</tr>
-&#x20; \<tr>
-&#x20;   \<td width="50%">
-&#x20;     \<h3>📈 Financial ML\</h3>
-&#x20;     \<ul>
-&#x20;       \<li>Financial Time Series\</li>
-&#x20;       \<li>Market Forecasting\</li>
-&#x20;       \<li>Risk Analysis and VaR\</li>
-&#x20;       \<li>Portfolio Analytics\</li>
-&#x20;       \<li>Quantitative Research Fundamentals\</li>
-&#x20;     \</ul>
-&#x20;   \</td>
-&#x20;   \<td width="50%">
-&#x20;     \<h3>💻 Software Development\</h3>
-&#x20;     \<ul>
-&#x20;       \<li>Full-Stack Development\</li>
-&#x20;       \<li>REST APIs and Backend Services\</li>
-&#x20;       \<li>Database Design\</li>
-&#x20;       \<li>Testing and Debugging\</li>
-&#x20;       \<li>Cloud and Deployment\</li>
-&#x20;     \</ul>
-&#x20;   \</td>
-&#x20; \</tr>
-\</table>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Machine Learning & AI</h3>
+      <ul>
+        <li>Deep Learning and Neural Networks</li>
+        <li>Transformers and NLP</li>
+        <li>Time-Series Forecasting</li>
+        <li>RAG and Vector Databases</li>
+        <li>Agentic AI and MCP</li>
+        <li>Model Evaluation and Fine-tuning</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Engineering & Systems</h3>
+      <ul>
+        <li>System Design</li>
+        <li>Backend Architecture</li>
+        <li>Distributed Systems</li>
+        <li>Docker and MLOps</li>
+        <li>Data Engineering</li>
+        <li>APIs and Scalable Infrastructure</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 Financial ML</h3>
+      <ul>
+        <li>Financial Time Series</li>
+        <li>Market Forecasting</li>
+        <li>Risk Analysis and VaR</li>
+        <li>Portfolio Analytics</li>
+        <li>Quantitative Research Fundamentals</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>💻 Software Development</h3>
+      <ul>
+        <li>Full-Stack Development</li>
+        <li>REST APIs and Backend Services</li>
+        <li>Database Design</li>
+        <li>Testing and Debugging</li>
+        <li>Cloud and Deployment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,29 +116,29 @@ Working on AI-powered financial systems and autonomous agents.
 
 ### Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,cpp,js,ts,sql](https://skillicons.dev/icons?i=python,cpp,js,ts,sql)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql" />
+</p>
 
 ### AI / ML & Data
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
 `LangChain` · `LangGraph` · `RAG` · `Transformers` · `Vector Databases` · `Time-Series Analysis` · `Jupyter`
 
 ### Backend & Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,postgres](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,postgres)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,postgres" />
+</p>
 
 ### DevOps & Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,azure,vscode](https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,azure,vscode)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,azure,vscode" />
+</p>
 
 ---
 
@@ -202,14 +202,14 @@ Chhatrapati Sahu Ji Maharaj University, Kanpur
 
 ## 📊 GitHub Overview
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=karanVerma1107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=karanVerma1107\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=karanVerma1107&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=karanVerma1107\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karanVerma1107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanVerma1107&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=karanVerma1107&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=karanVerma1107\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karanVerma1107&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -223,6 +223,13 @@ I'm interested in connecting with people working on:
 - System design and distributed systems
 - Open-source software and engineering
 
-\<p align="left">   \<a href="[https://www.linkedin.com/in/karan-verma-91565925a](https://www.linkedin.com/in/karan-verma-91565925a)">     \<img src="[https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="[https://github.com/karanVerma1107](https://github.com/karanVerma1107)">     \<img src="[https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/karan-verma-91565925a">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/karanVerma1107">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 **Always learning. Always building. Always curious.** 🚀
