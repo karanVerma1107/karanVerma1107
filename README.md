@@ -4,7 +4,7 @@
 
 I enjoy building intelligent systems that connect **machine learning, software engineering, and real-world applications**.
 
-Currently working on AI-powered financial systems, autonomous agents, and market-data pipelines. Outside of work, I'm exploring deep learning, system design, scalable infrastructure, and the intersection of machine learning and quantitative finance.
+Currently working on AI-powered financial systems, autonomous agents, and market-data pipelines in Gogi's private repositories. Outside of work, I'm exploring deep learning, system design, scalable infrastructure, and the intersection of machine learning and quantitative finance.
 
 <p align="left">
   <a href="https://github.com/karanVerma1107">
