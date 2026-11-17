@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Karan Verma 👋</h1>
+<h1 align="center">Hey there, I'm Karan Verma hi👋</h1>
 
 <p align="center">
   <em>A passionate Full-Stack Developer engineering performant, scalable systems with a forward-looking interest in AI and ML.</em>
